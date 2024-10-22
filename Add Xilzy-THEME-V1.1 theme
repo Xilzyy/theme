@@ -7,7 +7,7 @@
         "updater": "https://raw.githubusercontent.com/Xilzyy/Discord-Themes/main/Xilzy-THEME-V1.1.json"
     },
     "background": {
-        "url": "https://i.imgur.com/dmNO8P8.jpeg",
+        "image": "https://i.imgur.com/dmNO8P8.jpeg",
         "over_alpha": 0.8,
         "blur_radius": 6
     },
@@ -19,12 +19,14 @@
         "statusbar": -14933210
     },
     "colors": {
-        "primary_dark_600": -1,
-        "primary_dark_630": -1,
-        "primary_dark_700": -1,
-        "primary_dark_800": -1,
-        "primary": 16777215,
-        "secondary": 0
+        "primary_dark_600": -10526881,
+        "primary_dark_630": -10526881,
+        "primary_dark_700": -10526881,
+        "primary_dark_800": -10526881,
+        "background": -1,
+        "text": -328966,
+        "link": -7549058,
+        "button": -16777216
     },
     "drawable_tints": {
         "ic_sidebar_search_24dp": -7549058,
